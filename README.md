@@ -6,10 +6,12 @@ Live Plotting of Sensor data.
   ○ Sends the live data from the sensors to the Wi-Fi.   
 ● Client Side :   
   ○ Fetches the data and plots the graph live.     
-● Tools Required :    
+● Tools Required :  
   ○ Python    
   ○ Wifi connection   
   ○  Ubuntu on Server side    
   ○ ROS   module  
   ○ Matplotlib animations 
-  ○ Socket code.  
+  ○ Socket code. 
+
+  Available for only one device at a time for veiwing the graph generation.
